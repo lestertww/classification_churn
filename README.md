@@ -1,5 +1,4 @@
-This repository contains files for an assignment on predicting Churn for a Telco company using Machine Learning packages on Python. 
-The assignment was administered as part of a Business and Data Analytics course.
+This repository contains files for an assignment on predicting Churn for a Telco company using Machine Learning packages on Python. This assignment was administered as part of a Business and Data Analytics course.
 
 Files:
 
